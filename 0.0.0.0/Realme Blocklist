@@ -1,0 +1,37 @@
+# Main Domain Of Realme Oppo Telemetry
+0.0.0.0 ksmobile.net
+0.0.0.0 coloros.com
+0.0.0.0 oppomobile.com
+0.0.0.0 heytapmobi.com
+0.0.0.0 heytapmobile.com
+0.0.0.0 heytapdownload.com
+0.0.0.0 allawnofs.com
+0.0.0.0 coloros.com
+0.0.0.0 wsds.cn
+0.0.0.0 xunyou.mobi
+
+# Subdomain Of Realme Oppo Telemetry
+0.0.0.0 videoclipf.apps.coloros.com
+0.0.0.0 httpdns.ocloud.oppomobile.com
+0.0.0.0 feedback-gl.heytapmobi.com
+0.0.0.0 ota-manual-sg.allawnofs.com
+0.0.0.0 ifota.coloros.com
+0.0.0.0 ups.ksmobile.net
+0.0.0.0 pay-sg.wsds.cn
+0.0.0.0 portal-sg.xunyou.mobi
+0.0.0.0 isp-map.xunyou.mobi
+0.0.0.0 drone.xunyou.mobi
+0.0.0.0 conf-sg.dc.heytapmobi.com
+0.0.0.0 dragate-sg.dc.heytapmobi.com
+0.0.0.0 icredits.heytapmobi.com
+0.0.0.0 vip-client.heytapmobi.com
+0.0.0.0 api-gl.store.heytapmobi.com
+0.0.0.0 epoch-gl.cdo.heytapmobi.com
+0.0.0.0 conn1.oppomobile.com
+0.0.0.0 conn2.oppomobile.com
+0.0.0.0 conn1.coloros.com
+0.0.0.0 conn2.coloros.com
+0.0.0.0 conf-sg.dc.heytapmobi.com
+0.0.0.0 httpdns.ocloud.heytapmobi.com
+0.0.0.0 client-uc.heytapmobi.com
+0.0.0.0 appconf.heytapdownload.com
